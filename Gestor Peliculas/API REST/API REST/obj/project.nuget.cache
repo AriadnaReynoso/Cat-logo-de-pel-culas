@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YN3DgUhWI8RO05Rt3lWP93rI4Xie7OZ5iaTMrLILXjK/JJOq3xfv5bjfN7x+DaL5kRcREoQ/BddNxIHC422eAA==",
+  "dgSpecHash": "A41G0xT70j1OgCblDlWHtqy7hcTbGZ0nfxkisOYvleLTj5G9Uzc1hgJHxJnJy3an+7sdFhXr6oQK3Zdt5iLVSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Estefany\\Downloads\\Gestor Peliculas\\Gestor Peliculas\\API REST\\API REST\\API REST.csproj",
+  "projectFilePath": "C:\\Gestor_peliculas\\Gestor Peliculas\\API REST\\API REST\\API REST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Estefany\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Estefany\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

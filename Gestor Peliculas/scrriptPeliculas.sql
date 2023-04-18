@@ -26,3 +26,5 @@ create table peliculas(
 	foreign key(id_genero) references generos(id),
 	foreign key(id_usuario) references usuarios(id)
 );
+
+select * from usuarios

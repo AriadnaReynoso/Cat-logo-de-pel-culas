@@ -2128,11 +2128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estefany\\Downloads\\Gestor Peliculas\\Gestor Peliculas\\API REST\\API REST\\API REST.csproj",
+      "projectUniqueName": "C:\\Gestor_peliculas\\Gestor Peliculas\\API REST\\API REST\\API REST.csproj",
       "projectName": "API REST",
-      "projectPath": "C:\\Users\\Estefany\\Downloads\\Gestor Peliculas\\Gestor Peliculas\\API REST\\API REST\\API REST.csproj",
+      "projectPath": "C:\\Gestor_peliculas\\Gestor Peliculas\\API REST\\API REST\\API REST.csproj",
       "packagesPath": "C:\\Users\\Estefany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estefany\\Downloads\\Gestor Peliculas\\Gestor Peliculas\\API REST\\API REST\\obj\\",
+      "outputPath": "C:\\Gestor_peliculas\\Gestor Peliculas\\API REST\\API REST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Estefany\\AppData\\Roaming\\NuGet\\NuGet.Config",
